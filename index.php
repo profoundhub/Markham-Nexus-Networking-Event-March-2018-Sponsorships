@@ -160,7 +160,9 @@
 	  </div>
   </div>
 
-  <div id="hamburger"><div></div></div>
+	<div id="hamburger">
+  		<div></div>
+	</div>
 
   <div id="header" class="mobile-hide">
   <!-- class="scroll" -->
@@ -186,7 +188,7 @@
 		  <div class="t-cell header-contact">
 			  <div class="button-contact table ">
 				  <div class="t-cell align-middle">
-					  Sponsor Us<span class="icn-contact"></span>
+				  	Sponsor Us<span class="icn-contact"></span>
 				  </div>
 			  </div>
 		  </div>
@@ -195,7 +197,7 @@
 		  
   <div class="hero-image">
 	  <div class="slogan">
-		  <h1 class="font-400" jt-view="name">Nexus Networking Event Party</h1>
+		  <h1 class="font-400" jt-view="name">Markham Nexus Networking Event Party</h1>
 		  <p jt-template="transition_texts"><img src="image/BattlefordCorpLogo.png" style="width: 25px; top: 10px; position: relative;" />&nbsp;&nbsp;  Sponsorship Proposal</p>
 		  
 	  </div>
@@ -228,7 +230,7 @@
 		  <iframe id="video-large-iframe" src="" width="1062" height="596" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
 		  <div class="video-large-overlay"></div>
 	  </div>
-	  <div class="hero-event-type">Meetup event</div>
+	  <div class="hero-event-type">Meetup Event</div>
   </div>
   <div id="sp">
 	  <div id="content">
@@ -406,15 +408,6 @@
 									  <br>
 									  	<p jt-attr="content"><p>You are cordially invited to attend our upcoming Nexus Networking Event on March 22nd, 2018.<br><br>We've decided to throw a Giant Business Networking party on March 22nd 2018, to bring people together and celebrate 2018 + get ready to kick off the rest of 2018!<br><br>This will be an Open Networking event is also for those interested in making meeting new people, finding a job or connecting with others who might have what you are looking for. We would love to meet you in person at the event, be sure to come say "Hi'! <br><br>Please feel free to invite your friends to this Open Networking Party!<br><br>There will be a lot of professionals, artists, students, recruiters, business owners, entrepreneurs, investors, senior citizens, &amp; Angel Investors, plus local startups, businesses and companies with gifts, swag, prizes and show specials + deals, just for you.<br><br>We are expecting a couple thousand attendees, so please do grab your tickets before it's too late to RSVP here: https://goo.gl/yz5QMk<br><br>I love to see you there, and meet you in person, as we network, mingle and get to know each other and discover ways we can collaborate!</p>
 											
-											<br><br><p><h4>Social Media:</h4></p>
-											
-<p>
-	<strong>Google+:</strong> https://goo.gl/F3nntn/<br>
-	<strong>Twitter:</strong> https://twitter.com/battleford_corp/<br>
-	<strong>Snapchat:</strong> https://www.snapchat.com/battlefordcorp/<br>
-	<strong>Facebook:</strong> https://www.facebook.com/battlefordcorp/<br>
-	<strong>Instagram:</strong> https://www.instagram.com/battlefordcorp/
-</p>
 							  </div>
 							  <div jt-template-view="event_description_details" class="description-details">
 								  <div class="description-details-img">
@@ -423,11 +416,35 @@
 									  <h5 class="font-high font-500 color-one" jt-attr="title"></h5>
 									  <br>
 									  <p jt-attr="content"><p>This is an opportunity for you to identify and promote yourself &amp; your organization  within the Greater Toronto Entrepreneurs Community in the GTA &amp; Beyond, as  well as to build up your Business Network using the services, resources and  opportunities Battleford Corporation provides.</p><p><br></p><p>NOTE: Sponsorship opportunities are limited on a first come, first  serve basis. </p><p><br></p><p>** Please Read Our Sponsorship Agreement. **</p><p>** Please Read Battleford  Corporation Advertising Guidelines. **</p><p><br></p><p>All Handbooks Will Be Available for purcahse Electronically at <a href="http://battlefordcorp.com/Events/Mar2018/">http://battlefordcorp.com/Events/Mar2018/</a> (Coming Soon!)</p>
-									  <p><br></p><p>Tel.: (437) 886-4685 </p><p>Email: info@battlefordcorp.com</p></p>
+										<p><br></p>
+											<p><strong>Tel.:</strong> (437) 886-4685 </p>
+											<p><strong>Email:</strong> info@battlefordcorp.com</p>
+										</p>
+										<hr />
+<p>
+<u><b>Social Media:</b></u>
+</p>											
+<p>
+<strong>Google+:</strong> https://goo.gl/F3nntn/<br>
+<strong>Twitter:</strong> https://twitter.com/battleford_corp/<br>
+<strong>Snapchat:</strong> https://www.snapchat.com/battlefordcorp/<br>
+<strong>Facebook:</strong> https://www.facebook.com/battlefordcorp/<br>
+<strong>Instagram:</strong> https://www.instagram.com/battlefordcorp/
+</p>
+
+<p><br></p>											
+<p><br></p>											
+
+										<hr />
+
 							  </div>
 							</div>
 					  </div>
 					  <div class="row" jt-section-view="key_numbers">
+					  
+					  	<p><br></p>											
+						<p><br></p>											
+
 						  <div class="coll16">
 							  <h5 class="font-high font-500 color-one text-uppercase wording-keynumbers">Key Services</h5>
 						  </div>
