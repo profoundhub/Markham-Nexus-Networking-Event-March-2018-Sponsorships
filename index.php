@@ -419,6 +419,7 @@
 										<p><br></p>
 											<p><strong>Tel.:</strong> (437) 886-4685 </p>
 											<p><strong>Email:</strong> info@battlefordcorp.com</p>
+											<br><br>
 										</p>
 										<hr />
 <p>
