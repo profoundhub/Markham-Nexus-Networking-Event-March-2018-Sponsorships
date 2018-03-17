@@ -432,7 +432,6 @@
 <strong>Facebook:</strong> https://www.facebook.com/battlefordcorp/<br>
 <strong>Instagram:</strong> https://www.instagram.com/battlefordcorp/
 </p>
-
 <p><br></p>											
 <p><br></p>											
 
