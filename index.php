@@ -277,11 +277,11 @@
 
 															  <div class="coll8">
 																  <h6 class="font-content font-400 wording-start">Start</h6>
-																  <p class="uppercase dateformat" jt-attr="start">04/22/2018</p>
+																  <p class="uppercase dateformat" jt-attr="start">03/22/2018</p>
 															  </div>
 															  <div class="coll8" style="display: none;">
 																  <h6 class="font-content font-400 wording-end">End</h6>
-																  <p class="uppercase dateformat" jt-attr="end">04/22/2018</p>
+																  <p class="uppercase dateformat" jt-attr="end">03/22/2018</p>
 															  </div>
 														  </div>
 														  <div class="row">
